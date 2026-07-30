@@ -122,8 +122,8 @@
     {
       "id": "tux-toolbar-buddy",
       "name": "Tux Toolbar Buddy",
-      "description": "把菜单入口轻量化为Tux工具栏按钮，隐藏状态点和版本信息。",
-      "version": "0.1.1",
+      "description": "把菜单入口轻量化为 Tux 工具栏按钮，并避免 DOM 观察器自触发造成 Renderer 空转。",
+      "version": "0.1.2",
       "author": "0xTotoroX",
       "tags": [
         "menu",
@@ -133,7 +133,7 @@
       ],
       "homepage": "https://github.com/0xTotoroX/tux-toolbar-buddy",
       "script_url": "https://raw.githubusercontent.com/BigPizzaV3/CodexPlusPlusScriptMarket/main/scripts/tux-toolbar-buddy.js",
-      "sha256": "6570fba293c751958b6cf7077b51458e1b126cf99c9168c321729316a7f0262b"
+      "sha256": "b90a1685bba565b8dee840acc401cb8392724b5ba43f3bcd644b7cb43a963afa"
     },
     {
       "id": "bennett-ui-improvements",
